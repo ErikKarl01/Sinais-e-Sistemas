@@ -31,12 +31,18 @@ Se você quiser rodar os notebooks na sua máquina para interagir com os código
    ```bash
    git clone [https://github.com/ErikKarl01/Sinais-e-Sistemas.git](https://github.com/ErikKarl01/Sinais-e-Sistemas.git)
 2. Instale as bibliotecas necessárias (recomenda-se o uso de um ambiente virtual):
+   
    pip install numpy matplotlib sympy jupyter
-3. Inicie o Jupyter Notebook:
+
+   
+4. Inicie o Jupyter Notebook:
+   
    jupyter notebook
 
 👨‍💻 Autores:
+
 Projeto desenvolvido pelos alunos:
 
 Erik Thadeu Sales Praxedes
+
 Antônio Joaquin de Lira Neto
